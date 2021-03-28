@@ -1,0 +1,22 @@
+
+//navigation
+yarn add @react-navigation/native
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+yarn add @react-navigation/stack @react-navigation/drawer  @react-navigation/bottom-tabs
+
+// use redux
+yarn add @reduxjs/toolkit redux react-redux
+
+
+
+// use uuid
+import 'react-native-get-random-values';
+yarn add --save react-native-get-random-values uuid
+
+
+ICON
+https://github.com/oblador/react-native-vector-icons
+
+$ yarn add react-native-svg @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-native-fontawesome
+$ yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-native-fontawesome

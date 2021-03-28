@@ -1,0 +1,63 @@
+import { createSlice } from '@reduxjs/toolkit';
+
+
+/* ###############################   Reducer  #############################################  */
+
+// import {GET_DATA_REASON} from '../constants/type'
+// const intialState = []
+
+// export const getDataReasonReducer = (state = intialState,action)=> {
+//     switch (action.type) {
+//         case GET_DATA_REASON:
+//             console.log("GET_DATA_REASON");
+//             console.log("GET_DATA_REASON",action.payload);
+//             return (action.payload)
+
+//         default:
+//             return state
+//     }
+// }
+
+
+export const liveboardSlice = createSlice({  //ส่งให้ store
+    name: 'liveboard',
+    initialState: [
+        {id:1,title:'hell11',selectd:true},
+        {id:2,title:'hell12',selectd:true},
+        {id:3,title:'hell1',selectd:true},
+        {id:4,title:'hell1',selectd:true}
+    ],
+    reducers: {
+        fecthDataLiveboard: (initialState, action) => initialState.concat({...action.payload,selectd:action.payload.id}) //bind reducer กับ action1
+    },
+});
+
+/* ###############################   Reducer  #############################################  */
+
+
+export const { fecthDataLiveboard } = liveboardSlice.actions;   //bind reducer กับ action 2
+
+
+
+/* ###############################     Action  #############################################  */
+
+// import {GET_DELETE_NOTIFICATION,GET_DATA_NOTIFICATION, HIDE_NOTIFICATION} from '../constants/type'
+// export const fecthNotification = (data) =>{
+//     return(dispatch)=>{
+//         dispatch({type:GET_DATA_NOTIFICATION,payload:data})
+//     }
+// }
+
+export const fecthDataLiveboardAction = (data) =>  {     //action   //usedispath
+    return(dispatch)=>{
+        dispatch(fecthDataLiveboard(data));
+    }
+
+};
+
+/* ###############################     Action  #############################################  */
+
+
+export const liveboardValue = state => state.liveboardState;  //ดึงค่าจาก store  useselector
+
+// export default liveboardSlice.reducer;   //**สำคัญ */

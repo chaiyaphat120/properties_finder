@@ -1,0 +1,223 @@
+[33mcommit f854ad9bbcc56a56ce2dffffa85c18d26adb6d8d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: chaiyaphat <chaiyaphat.b5922314@gmail.com>
+Date:   Thu Mar 18 20:41:44 2021 +0700
+
+    add
+
+[33mcommit 7d917f6e93ceb1bfc16e7b19640d6e7a3b7de849[m
+Author: chaiyaphat <chaiyaphat.b5922314@gmail.com>
+Date:   Thu Mar 18 19:07:39 2021 +0700
+
+    add
+
+[33mcommit 2e30a56efb9de648ff467135dc166957c7b2f8b6[m
+Author: chaiyaphat <chaiyaphat.b5922314@gmail.com>
+Date:   Thu Mar 18 08:49:26 2021 +0700
+
+    refactor : test revers
+
+[33mcommit e10d842c7879fdf93d718d0faedeb9e3a17beed6[m
+Author: chaiyaphat <chaiyaphat.b5922314@gmail.com>
+Date:   Thu Mar 18 08:41:04 2021 +0700
+
+    test revers2
+
+[33mcommit cd97e60b51d940c7d1634cc2c60ab524d769e65c[m
+Author: chaiyaphat <chaiyaphat.b5922314@gmail.com>
+Date:   Thu Mar 18 08:40:14 2021 +0700
+
+    init: test revers
+
+[33mcommit 43c600151efa3c97c0181887491fd32d397b17f9[m
+Author: chaiyaphat <chaiyaphat.b5922314@gmail.com>
+Date:   Wed Mar 17 22:52:19 2021 +0700
+
+    add
+
+[33mcommit 1ae76219c25911d379f76db32e3294979b73e58c[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Fri Mar 12 17:33:13 2021 +0700
+
+    add
+
+[33mcommit e56d6ba080b31b4c2f79152e650fa49d5b804b62[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Fri Mar 12 16:31:11 2021 +0700
+
+    add
+
+[33mcommit c77cf592b2332926ced545da62655758f3db4817[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Fri Mar 12 02:35:24 2021 +0700
+
+    add
+
+[33mcommit 0396ddf6f38f18065a7cd35cde31748f526aefe0[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Fri Mar 12 00:45:05 2021 +0700
+
+    feature : Add
+
+[33mcommit 84a0bf73c971c8ba3195b5b697d0b0cc65eb5d7b[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Fri Mar 12 00:24:50 2021 +0700
+
+    Feature : Add API
+
+[33mcommit 904c8f641b60b4952f89ed8d1aefc8cc2e61882a[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Fri Mar 12 00:24:37 2021 +0700
+
+    Fix : Edit URL API
+
+[33mcommit d85e64eebdec3beffb04e061ff96681975fa619b[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Fri Mar 12 00:24:10 2021 +0700
+
+    Fix : Add menu tab in @rule User
+
+[33mcommit d8365fa18dc385576ea7bd6a1ae74bb455344da6[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 23:36:30 2021 +0700
+
+    feature : add pictur hotel
+
+[33mcommit b7168e9389477777b5ebfa6e7f971a76caa9cdcb[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 23:36:13 2021 +0700
+
+    fix : alert error from status
+
+[33mcommit 02b1be12ce768aafa2e6dd5c3ca31574e41972a1[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 17:29:05 2021 +0700
+
+    feature : genarate picture base 64
+
+[33mcommit 39827689b133d35e109e1e071091a364f9aa1bca[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 12:01:20 2021 +0700
+
+    add
+
+[33mcommit d262f6f3fe46d3737fc7f3659c59a5b8a930e433[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 10:43:30 2021 +0700
+
+    fix
+
+[33mcommit 1847ec78e0d69b04697bea3f679d2b967005f706[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 09:35:30 2021 +0700
+
+    phone number
+
+[33mcommit 07c2a1c749c2c57ace675ec09e1c07922cff8874[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 09:29:33 2021 +0700
+
+    fix : recieve value from Formik
+
+[33mcommit 6ca8df0a094c06115c9838c61e2e179657e776fa[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Thu Mar 11 08:51:59 2021 +0700
+
+    fix : get value from formik
+
+[33mcommit 544a1e98abb847c14bbcb41c77be6639e196db8c[m
+Merge: 0fdd7d0 c6e3bbf
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Wed Mar 10 23:28:50 2021 +0700
+
+    Merge branch 'master' of https://github.com/chaiyaphat120/property_finder
+
+[33mcommit 0fdd7d0ba4fef317748ebe78769d0a3c0a8e7c61[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Wed Mar 10 23:28:40 2021 +0700
+
+    feature : check role user or admin
+
+[33mcommit c6e3bbf22e0046db7a92b9bea9fffaabac694bbd[m
+Author: Peerapong Srithong <srithong.boss@gmail.com>
+Date:   Wed Mar 10 16:41:45 2021 +0700
+
+    Add CustomInput & Edit Login, SignUp Page
+
+[33mcommit 02c854bb3c7d69ca3f9e1ddcea6483c4b6eeb866[m
+Author: Peerapong Srithong <srithong.boss@gmail.com>
+Date:   Wed Mar 10 16:16:25 2021 +0700
+
+    Edit UI Login, SignUp Page & And Stack Profiles Page
+
+[33mcommit bd912b8e5f009841cdb321a4e94a4fc4172ea8b7[m
+Merge: 576ef30 da0e210
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Mon Mar 8 18:59:06 2021 +0700
+
+    feature : merge branch
+
+[33mcommit 576ef30bc29495e53cbc5243ee586515868b071a[m
+Author: Peerapong Srithong <srithong.boss@gmail.com>
+Date:   Mon Mar 8 16:36:10 2021 +0700
+
+    Profile & Edit Profile
+
+[33mcommit 5b1f67cfa19d01edf2470a253f3605482f0dea6e[m
+Author: Peerapong Srithong <srithong.boss@gmail.com>
+Date:   Sun Mar 7 20:50:57 2021 +0700
+
+    Add Edit Profiles && Edit UI
+
+[33mcommit da0e210d734981c7b6ffec13d60190fc61cbd345[m[33m ([m[1;31morigin/dev_user[m[33m)[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 20:43:59 2021 +0700
+
+    refactor :circle icon app
+
+[33mcommit 33f77d5a400cc544de111f7ca53aafc98d33f575[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 19:04:56 2021 +0700
+
+    refactor : edit git ignore
+
+[33mcommit e2dc5c239d509f4273e54d776662662108c44bb8[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 19:02:34 2021 +0700
+
+    feature : login register getdatauser
+
+[33mcommit 99d55595963e1a41186e6bf2f172098d341a399b[m
+Author: peerapong srithong <srithong.boss@gmail.com>
+Date:   Sat Mar 6 15:46:37 2021 +0700
+
+    test_push
+
+[33mcommit 9dd53f85a2d525bb0a54d5ae3d09b86e0050c58d[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 15:38:34 2021 +0700
+
+    add
+
+[33mcommit 5f12911342b2c2f1bbd11496c152e6ba2c610c1a[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 15:17:03 2021 +0700
+
+    refactor : edit setting package.json
+
+[33mcommit 7ea796a5b852e9722dfe197e99beca96dd3689fe[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 15:16:02 2021 +0700
+
+    refactor : rewite setting prettier
+
+[33mcommit 2403d3ee3cf434f931a8dddec263a0eb6c70bc7e[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 15:12:00 2021 +0700
+
+    intial project
+
+[33mcommit 26e839e2f7f12bd127f13d7fdc97fb8505bc45c4[m
+Author: chaiyaphat <chaiyaphat.b5922314@email.com>
+Date:   Sat Mar 6 15:10:56 2021 +0700
+
+    add
